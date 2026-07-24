@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/36813498?v=4" width="110" height="110" alt="Scott"/>
+<img src="https://avatars.githubusercontent.com/u/36813498?v=4" width="120" height="120" alt="Scott"/>
 
 # Hi, I'm Scott 👋
 
@@ -8,22 +8,13 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=zeno528&show_icons=true&count_private=true&bg_color=0d1117&title_color=F97316&text_color=C9D1D9&icon_color=F97316&hide_border=true&border_radius=16" alt="stats"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeno528&layout=compact&bg_color=0d1117&title_color=F97316&text_color=C9D1D9&hide_border=true&border_radius=16" alt="langs"/>
-    </td>
-  </tr>
-</table>
+### 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cloudflare,ts,js,react,vue,astro,vite,tailwind,nodejs,powershell,tauri,git,linux&theme=dark&perline=7" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=cloudflare,ts,js,react,vue,astro,vite,tailwind,nodejs,powershell,tauri,git,linux,vscode&theme=dark&perline=7" alt="skills"/>
 
 <br/>
 
-## 🛠️ Highlight Projects
+### 🛠️ Highlight Projects
 
 <table>
   <tr>
@@ -38,7 +29,7 @@
   </tr>
 </table>
 
-## 🔭 About Me
+### 🔭 About Me
 
 - 🔧 **工具型开发者** —— 把想法快速变成能用的东西
 - ☁️ **Cloudflare 重度用户** —— Workers / R2 / KV / Pages
