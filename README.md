@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:F97316,100:FB923C&text=Scott&fontSize=58&fontColor=FFFFFF&animation=fadeIn&desc=make%20things%20%C2%B7%20break%20things%20%C2%B7%20learn%20things&descSize=16&descAlignY=75" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:F97316,100:FB923C&text=Scott%20Z&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=make%20things%20%C2%B7%20break%20things%20%C2%B7%20learn%20things&descSize=16&descAlignY=75" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&width=520&lines=sometimes+AutoHotkey%2C+sometimes+Rust;cloudflare+edge+or+windows+desktop;do+whatever+feels+fun" alt="typing"/>
 
